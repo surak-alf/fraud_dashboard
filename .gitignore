@@ -1,0 +1,21 @@
+# Data files
+data/*.csv
+
+# Model files 
+models/*.pkl  
+
+# Virtual environment directory
+.venv/
+
+# Python cache files
+__pycache__/
+
+# Compiled Python files
+*.pyc
+
+# Temporary files or editor backups
+*~
+*.swp
+
+# Log files 
+*.log
